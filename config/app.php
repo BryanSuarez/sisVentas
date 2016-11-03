@@ -151,10 +151,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        sisVentas\Providers\AppServiceProvider::class,
+        sisVentas\Providers\AuthServiceProvider::class,
+        sisVentas\Providers\EventServiceProvider::class,
+        sisVentas\Providers\RouteServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
 
 

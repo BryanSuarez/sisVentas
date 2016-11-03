@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace sisVentas\Events;
 
 abstract class Event
 {

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>ADVentas | www.incanatoit.com</title>
+    <title>CuantiComp S.A.</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -27,9 +27,9 @@
         <!-- Logo -->
         <a href="index2.html" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b>AD</b>V</span>
+          <span class="logo-mini"><b>Cu</b>C</span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b>ADVentas</b></span>
+          <span class="logo-lg"><b>CUANTICOMP S.A.</b></span>
         </a>
 
         <!-- Header Navbar: style can be found in header.less -->
@@ -42,33 +42,33 @@
           <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">
               <!-- Messages: style can be found in dropdown.less-->
-              
+
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   <small class="bg-red">Online</small>
-                  <span class="hidden-xs">Juan Carlos Arcila Díaz</span>
+                  <span class="hidden-xs">Bryan Suárez</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
-                    
+
                     <p>
-                      www.incanatoit.com - Desarrollando Software
-                      <small>www.youtube.com/jcarlosad7</small>
+                      www.cuanticomp.com.ec - Desarrollando Software
+                      <small>FanPage</small>
                     </p>
                   </li>
-                  
+
                   <!-- Menu Footer-->
                   <li class="user-footer">
-                    
+
                     <div class="pull-right">
                       <a href="#" class="btn btn-default btn-flat">Cerrar</a>
                     </div>
                   </li>
                 </ul>
               </li>
-              
+
             </ul>
           </div>
 
@@ -79,11 +79,11 @@
         <!-- sidebar: style can be found in sidebar.less -->
         <section class="sidebar">
           <!-- Sidebar user panel -->
-                    
+
           <!-- sidebar menu: : style can be found in sidebar.less -->
           <ul class="sidebar-menu">
             <li class="header"></li>
-            
+
             <li class="treeview">
               <a href="#">
                 <i class="fa fa-laptop"></i>
@@ -95,7 +95,7 @@
                 <li><a href="almacen/categoria"><i class="fa fa-circle-o"></i> Categorías</a></li>
               </ul>
             </li>
-            
+
             <li class="treeview">
               <a href="#">
                 <i class="fa fa-th"></i>
@@ -118,7 +118,7 @@
                 <li><a href="ventas/cliente"><i class="fa fa-circle-o"></i> Clientes</a></li>
               </ul>
             </li>
-                       
+
             <li class="treeview">
               <a href="#">
                 <i class="fa fa-folder"></i> <span>Acceso</span>
@@ -126,7 +126,7 @@
               </a>
               <ul class="treeview-menu">
                 <li><a href="configuracion/usuario"><i class="fa fa-circle-o"></i> Usuarios</a></li>
-                
+
               </ul>
             </li>
              <li>
@@ -141,7 +141,7 @@
                 <small class="label pull-right bg-yellow">IT</small>
               </a>
             </li>
-                        
+
           </ul>
         </section>
         <!-- /.sidebar -->
@@ -154,10 +154,10 @@
        <!--Contenido-->
       <!-- Content Wrapper. Contains page content -->
       <div class="content-wrapper">
-        
+
         <!-- Main content -->
         <section class="content">
-          
+
           <div class="row">
             <div class="col-md-12">
               <div class="box">
@@ -165,7 +165,7 @@
                   <h3 class="box-title">Sistema de Ventas</h3>
                   <div class="box-tools pull-right">
                     <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
-                    
+
                     <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
                   </div>
                 </div>
@@ -178,7 +178,7 @@
 		                          <!--Fin Contenido-->
                            </div>
                         </div>
-		                    
+
                   		</div>
                   	</div><!-- /.row -->
                 </div><!-- /.box-body -->
@@ -191,18 +191,18 @@
       <!--Fin-Contenido-->
       <footer class="main-footer">
         <div class="pull-right hidden-xs">
-          <b>Version</b> 2.3.0
+          <b>Versión</b> 1.0.0
         </div>
-        <strong>Copyright &copy; 2015-2020 <a href="www.incanatoit.com">IncanatoIT</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2016 <a href="#">Cuanticomp S.A.</a> </strong>(Bryan Suárez) All rights reserved.
       </footer>
 
-      
+
     <!-- jQuery 2.1.4 -->
     <script src="{{asset('js/jQuery-2.1.4.min.js')}}"></script>
     <!-- Bootstrap 3.3.5 -->
     <script src="{{asset('js/bootstrap.min.js')}}"></script>
     <!-- AdminLTE App -->
     <script src="{{asset('js/app.min.js')}}"></script>
-    
+
   </body>
 </html>
